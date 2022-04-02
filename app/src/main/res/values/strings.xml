@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Nyusu Kuy</string>
+    <string name="judul">REGISTER</string>
+    <string name="nyusuKuy_intro">Nyusu kuy adalah aplikasi untuk menjual dan memberi susu murni dan juga bervarian rasa</string>
+    <string name="username">Username</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="simpan">Simpan</string>
+    <string name="password">Password</string>
+    <string name="retype">Retype Password</string>
+    <string name="jenis_kelamin">Jenis Kelamin</string>
+    <string name="jenis_user">Jenis User</string>
+    <string name="wanita">Wanita</string>
+    <string name="pria">Pria</string>
+    <string name="user">User</string>
+    <string name="penjual">Penjual</string>
+    <string name="login">Register</string>
+
+</resources>
